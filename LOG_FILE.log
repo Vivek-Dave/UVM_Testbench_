@@ -1,0 +1,272 @@
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 0: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=  0  in2=  0 add_sub=0  out=  x
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 5: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=209  in2= 87 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 5: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=209  in2= 87 add_sub=0  out=122
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 10: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 62  in2=192 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 10: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 62  in2=192 add_sub=1  out=254
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 10: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 62  in2=192 add_sub=1  out=254
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 15: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 24  in2=146 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 15: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 24  in2=146 add_sub=1  out=170
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 15: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 24  in2=146 add_sub=1  out=170
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 20: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 95  in2=205 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 20: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 95  in2=205 add_sub=0  out=402
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 20: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 95  in2=205 add_sub=0  out=402
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 25: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 19  in2=113 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 25: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 19  in2=113 add_sub=0  out=418
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 25: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 19  in2=113 add_sub=0  out=418
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 30: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 52  in2=126 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 30: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 52  in2=126 add_sub=1  out=178
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 30: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 52  in2=126 add_sub=1  out=178
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 35: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=194  in2=244 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 35: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=194  in2=244 add_sub=1  out=438
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 35: uvm_test_top.env_h.scoreboard_h [PASS ] in1=194  in2=244 add_sub=1  out=438
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 40: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=189  in2=211 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 40: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=189  in2=211 add_sub=0  out=490
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 40: uvm_test_top.env_h.scoreboard_h [PASS ] in1=189  in2=211 add_sub=0  out=490
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 45: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 37  in2= 27 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 45: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 37  in2= 27 add_sub=0  out= 10
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 45: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 37  in2= 27 add_sub=0  out= 10
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 50: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=250  in2=204 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 50: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=250  in2=204 add_sub=1  out=454
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 50: uvm_test_top.env_h.scoreboard_h [PASS ] in1=250  in2=204 add_sub=1  out=454
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 55: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=116  in2=107 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 55: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=116  in2=107 add_sub=1  out=223
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 55: uvm_test_top.env_h.scoreboard_h [PASS ] in1=116  in2=107 add_sub=1  out=223
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 60: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=225  in2=212 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 60: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=225  in2=212 add_sub=1  out=437
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 60: uvm_test_top.env_h.scoreboard_h [PASS ] in1=225  in2=212 add_sub=1  out=437
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 65: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=187  in2=166 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 65: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=187  in2=166 add_sub=1  out=353
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 65: uvm_test_top.env_h.scoreboard_h [PASS ] in1=187  in2=166 add_sub=1  out=353
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 70: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=  2  in2=225 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 70: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=  2  in2=225 add_sub=1  out=227
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 70: uvm_test_top.env_h.scoreboard_h [PASS ] in1=  2  in2=225 add_sub=1  out=227
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 75: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=182  in2=133 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 75: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=182  in2=133 add_sub=1  out=315
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 75: uvm_test_top.env_h.scoreboard_h [PASS ] in1=182  in2=133 add_sub=1  out=315
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 80: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=215  in2=146 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 80: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=215  in2=146 add_sub=1  out=361
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 80: uvm_test_top.env_h.scoreboard_h [PASS ] in1=215  in2=146 add_sub=1  out=361
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 85: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=101  in2=  8 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 85: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=101  in2=  8 add_sub=1  out=109
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 85: uvm_test_top.env_h.scoreboard_h [PASS ] in1=101  in2=  8 add_sub=1  out=109
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 90: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 96  in2=231 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 90: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 96  in2=231 add_sub=1  out=327
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 90: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 96  in2=231 add_sub=1  out=327
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 95: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=200  in2= 47 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 95: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=200  in2= 47 add_sub=1  out=247
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 95: uvm_test_top.env_h.scoreboard_h [PASS ] in1=200  in2= 47 add_sub=1  out=247
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 100: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=157  in2=224 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 100: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=157  in2=224 add_sub=1  out=381
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 100: uvm_test_top.env_h.scoreboard_h [PASS ] in1=157  in2=224 add_sub=1  out=381
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 105: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=223  in2=250 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 105: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=223  in2=250 add_sub=1  out=473
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 105: uvm_test_top.env_h.scoreboard_h [PASS ] in1=223  in2=250 add_sub=1  out=473
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 110: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=142  in2=125 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 110: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=142  in2=125 add_sub=1  out=267
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 110: uvm_test_top.env_h.scoreboard_h [PASS ] in1=142  in2=125 add_sub=1  out=267
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 115: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=170  in2=105 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 115: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=170  in2=105 add_sub=1  out=275
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 115: uvm_test_top.env_h.scoreboard_h [PASS ] in1=170  in2=105 add_sub=1  out=275
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 120: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 51  in2=190 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 120: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 51  in2=190 add_sub=1  out=241
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 120: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 51  in2=190 add_sub=1  out=241
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 125: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 41  in2=124 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 125: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 41  in2=124 add_sub=1  out=165
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 125: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 41  in2=124 add_sub=1  out=165
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 130: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=140  in2=163 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 130: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=140  in2=163 add_sub=1  out=303
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 130: uvm_test_top.env_h.scoreboard_h [PASS ] in1=140  in2=163 add_sub=1  out=303
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 135: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 92  in2= 51 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 135: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 92  in2= 51 add_sub=1  out=143
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 135: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 92  in2= 51 add_sub=1  out=143
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 140: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=153  in2= 44 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 140: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=153  in2= 44 add_sub=1  out=197
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 140: uvm_test_top.env_h.scoreboard_h [PASS ] in1=153  in2= 44 add_sub=1  out=197
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 145: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 67  in2=142 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 145: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 67  in2=142 add_sub=1  out=209
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 145: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 67  in2=142 add_sub=1  out=209
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 150: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 90  in2= 89 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 150: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 90  in2= 89 add_sub=1  out=179
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 150: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 90  in2= 89 add_sub=1  out=179
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 155: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=222  in2=141 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 155: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=222  in2=141 add_sub=1  out=363
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 155: uvm_test_top.env_h.scoreboard_h [PASS ] in1=222  in2=141 add_sub=1  out=363
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 160: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=207  in2= 42 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 160: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=207  in2= 42 add_sub=1  out=249
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 160: uvm_test_top.env_h.scoreboard_h [PASS ] in1=207  in2= 42 add_sub=1  out=249
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 165: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 45  in2= 48 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 165: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 45  in2= 48 add_sub=1  out= 93
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 165: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 45  in2= 48 add_sub=1  out= 93
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 170: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=248  in2=159 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 170: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=248  in2=159 add_sub=1  out=407
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 170: uvm_test_top.env_h.scoreboard_h [PASS ] in1=248  in2=159 add_sub=1  out=407
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 175: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 48  in2=119 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 175: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 48  in2=119 add_sub=1  out=167
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 175: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 48  in2=119 add_sub=1  out=167
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 180: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=213  in2=184 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 180: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=213  in2=184 add_sub=1  out=397
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 180: uvm_test_top.env_h.scoreboard_h [PASS ] in1=213  in2=184 add_sub=1  out=397
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 185: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=231  in2= 98 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 185: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=231  in2= 98 add_sub=1  out=329
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 185: uvm_test_top.env_h.scoreboard_h [PASS ] in1=231  in2= 98 add_sub=1  out=329
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 190: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=102  in2=117 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 190: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=102  in2=117 add_sub=1  out=219
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 190: uvm_test_top.env_h.scoreboard_h [PASS ] in1=102  in2=117 add_sub=1  out=219
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 195: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 82  in2=241 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 195: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 82  in2=241 add_sub=1  out=323
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 195: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 82  in2=241 add_sub=1  out=323
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 200: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=171  in2=214 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 200: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=171  in2=214 add_sub=1  out=385
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 200: uvm_test_top.env_h.scoreboard_h [PASS ] in1=171  in2=214 add_sub=1  out=385
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 205: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=113  in2= 36 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 205: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=113  in2= 36 add_sub=1  out=149
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 205: uvm_test_top.env_h.scoreboard_h [PASS ] in1=113  in2= 36 add_sub=1  out=149
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 210: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=164  in2=219 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 210: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=164  in2=219 add_sub=1  out=383
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 210: uvm_test_top.env_h.scoreboard_h [PASS ] in1=164  in2=219 add_sub=1  out=383
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 215: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 68  in2=251 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 215: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 68  in2=251 add_sub=1  out=319
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 215: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 68  in2=251 add_sub=1  out=319
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 220: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 81  in2=132 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 220: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 81  in2=132 add_sub=1  out=213
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 220: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 81  in2=132 add_sub=1  out=213
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 225: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=203  in2=118 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 225: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=203  in2=118 add_sub=1  out=321
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 225: uvm_test_top.env_h.scoreboard_h [PASS ] in1=203  in2=118 add_sub=1  out=321
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 230: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=178  in2=209 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 230: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=178  in2=209 add_sub=1  out=387
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 230: uvm_test_top.env_h.scoreboard_h [PASS ] in1=178  in2=209 add_sub=1  out=387
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 235: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=  6  in2=149 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 235: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=  6  in2=149 add_sub=1  out=155
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 235: uvm_test_top.env_h.scoreboard_h [PASS ] in1=  6  in2=149 add_sub=1  out=155
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 240: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=199  in2=194 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 240: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=199  in2=194 add_sub=1  out=393
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 240: uvm_test_top.env_h.scoreboard_h [PASS ] in1=199  in2=194 add_sub=1  out=393
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 245: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=245  in2= 88 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 245: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=245  in2= 88 add_sub=1  out=333
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 245: uvm_test_top.env_h.scoreboard_h [PASS ] in1=245  in2= 88 add_sub=1  out=333
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=144  in2= 87 add_sub=1
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=144  in2= 87 add_sub=1  out=231
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=144  in2= 87 add_sub=1  out=231
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=175  in2= 91 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=175  in2= 91 add_sub=0  out= 84
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=175  in2= 91 add_sub=0  out= 84
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 28  in2=196 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 28  in2=196 add_sub=0  out=344
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 28  in2=196 add_sub=0  out=344
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=246  in2=150 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=246  in2=150 add_sub=0  out= 96
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=246  in2=150 add_sub=0  out= 96
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 61  in2=209 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 61  in2=209 add_sub=0  out=364
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 61  in2=209 add_sub=0  out=364
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=241  in2=117 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=241  in2=117 add_sub=0  out=124
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=241  in2=117 add_sub=0  out=124
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 18  in2=130 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 18  in2=130 add_sub=0  out=400
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 18  in2=130 add_sub=0  out=400
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=160  in2=248 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=160  in2=248 add_sub=0  out=424
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=160  in2=248 add_sub=0  out=424
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=155  in2=215 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=155  in2=215 add_sub=0  out=452
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=155  in2=215 add_sub=0  out=452
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=  3  in2= 31 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=  3  in2= 31 add_sub=0  out=484
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=  3  in2= 31 add_sub=0  out=484
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=216  in2=208 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=216  in2=208 add_sub=0  out=  8
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=216  in2=208 add_sub=0  out=  8
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 26  in2=234 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 26  in2=234 add_sub=0  out=304
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 26  in2=234 add_sub=0  out=304
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=201  in2=109 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=201  in2=109 add_sub=0  out= 92
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=201  in2=109 add_sub=0  out= 92
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=229  in2= 89 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=229  in2= 89 add_sub=0  out=140
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=229  in2= 89 add_sub=0  out=140
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=110  in2=174 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=110  in2=174 add_sub=0  out=448
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=110  in2=174 add_sub=0  out=448
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=100  in2=108 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=100  in2=108 add_sub=0  out=504
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=100  in2=108 add_sub=0  out=504
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=199  in2=147 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=199  in2=147 add_sub=0  out= 52
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=199  in2=147 add_sub=0  out= 52
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=151  in2= 35 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=151  in2= 35 add_sub=0  out=116
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=151  in2= 35 add_sub=0  out=116
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=212  in2= 28 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=212  in2= 28 add_sub=0  out=184
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=212  in2= 28 add_sub=0  out=184
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=126  in2=126 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=126  in2=126 add_sub=0  out=  0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=126  in2=126 add_sub=0  out=  0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=149  in2= 73 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=149  in2= 73 add_sub=0  out= 76
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=149  in2= 73 add_sub=0  out= 76
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 25  in2=125 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 25  in2=125 add_sub=0  out=412
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 25  in2=125 add_sub=0  out=412
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 10  in2= 26 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 10  in2= 26 add_sub=0  out=496
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 10  in2= 26 add_sub=0  out=496
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=104  in2= 32 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=104  in2= 32 add_sub=0  out= 72
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=104  in2= 32 add_sub=0  out= 72
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 51  in2=143 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 51  in2=143 add_sub=0  out=420
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 51  in2=143 add_sub=0  out=420
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=107  in2=103 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=107  in2=103 add_sub=0  out=  4
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=107  in2=103 add_sub=0  out=  4
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 16  in2=168 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 16  in2=168 add_sub=0  out=360
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 16  in2=168 add_sub=0  out=360
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 34  in2= 82 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 34  in2= 82 add_sub=0  out=464
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 34  in2= 82 add_sub=0  out=464
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=161  in2=101 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=161  in2=101 add_sub=0  out= 60
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=161  in2=101 add_sub=0  out= 60
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=141  in2=225 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=141  in2=225 add_sub=0  out=428
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=141  in2=225 add_sub=0  out=428
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=230  in2=198 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=230  in2=198 add_sub=0  out= 32
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=230  in2=198 add_sub=0  out= 32
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=172  in2= 20 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=172  in2= 20 add_sub=0  out=152
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=172  in2= 20 add_sub=0  out=152
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=223  in2=203 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=223  in2=203 add_sub=0  out= 20
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=223  in2=203 add_sub=0  out= 20
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=127  in2=235 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=127  in2=235 add_sub=0  out=404
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=127  in2=235 add_sub=0  out=404
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=140  in2=116 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=140  in2=116 add_sub=0  out= 24
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=140  in2=116 add_sub=0  out= 24
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=  6  in2=102 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=  6  in2=102 add_sub=0  out=416
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=  6  in2=102 add_sub=0  out=416
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=237  in2=193 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=237  in2=193 add_sub=0  out= 44
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=237  in2=193 add_sub=0  out= 44
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 65  in2=133 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 65  in2=133 add_sub=0  out=444
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 65  in2=133 add_sub=0  out=444
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=  2  in2=178 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=  2  in2=178 add_sub=0  out=336
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=  2  in2=178 add_sub=0  out=336
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1= 48  in2= 72 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1= 48  in2= 72 add_sub=0  out=488
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1= 48  in2= 72 add_sub=0  out=488
+UVM_INFO /home/runner/add_sub_scoreboard.sv(40) @ 250: uvm_test_top.env_h.scoreboard_h [write_drv STIM] in1=203  in2= 71 add_sub=0
+UVM_INFO /home/runner/add_sub_scoreboard.sv(59) @ 250: uvm_test_top.env_h.scoreboard_h [write_mon OUT ] in1=203  in2= 71 add_sub=0  out=132
+UVM_INFO /home/runner/add_sub_scoreboard.sv(73) @ 250: uvm_test_top.env_h.scoreboard_h [PASS ] in1=203  in2= 71 add_sub=0  out=132
+UVM_INFO /home/runner/add_sub_coverage.sv(52) @ 260: uvm_test_top.env_h.coverage_h [add_sub_coverage] Coverage is 69.047619
+UVM_INFO /home/runner/add_sub_scoreboard.sv(91) @ 260: uvm_test_top.env_h.scoreboard_h [PASSED] *** TEST PASSED - 89 vectors ran, 89 vectors passed ***
